@@ -95,7 +95,7 @@ she is the market.
             <div className="grid grid-cols-2 md:grid-cols-3 gap-4">
               <div className="group relative overflow-hidden rounded-2xl aspect-square shadow-md hover:shadow-lg transition-shadow">
                 <img
-                  src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/pepe%202-TugB8wgpvgXXGTADUbHOtaaScQ56kX.png"
+                  src="https://i.postimg.cc/zBy6wzDC/Chat-GPT-Image-13-nov-2025-10-46-31-a-m.png"
                   alt="Chan on luxury yacht"
                   className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-300"
                 />
