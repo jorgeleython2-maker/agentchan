@@ -27,7 +27,7 @@ export default function Home() {
           </div>
 
           <h1 className="text-6xl md:text-7xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-teal-600 via-emerald-500 to-teal-600 mb-6">
-            Chan Agent
+            Agent Chan 
           </h1>
 
           <p className="text-xl md:text-2xl text-teal-700 mb-8 max-w-2xl mx-auto leading-relaxed font-light">
@@ -39,7 +39,7 @@ export default function Home() {
               onClick={() => router.push("/agent")}
               className="px-8 py-6 text-lg font-bold bg-gradient-to-r from-emerald-500 to-teal-500 hover:from-emerald-600 hover:to-teal-600 text-white rounded-xl shadow-lg shadow-emerald-300/50 transition-all hover:scale-105"
             >
-              Start Talking to Chan Agent
+              Start Talking to Agent Chan
             </Button>
 
             <Button

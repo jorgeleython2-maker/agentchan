@@ -102,7 +102,7 @@ export default function AgentPage() {
 
       setKimaMessage("Analyzing token...")
       clearDialogues()
-      addThinkingDialogue("Analyzing with Chan Agent...")
+      addThinkingDialogue("Analyzing with Agent Chan...")
 
       const response = await fetch("/api/analyze-token", {
         method: "POST",
