@@ -102,7 +102,7 @@ export default function AgentPage() {
 
       setKimaMessage("Analyzing token...")
       clearDialogues()
-      addThinkingDialogue("Analyzing with Kima Agent...")
+      addThinkingDialogue("Analyzing with Chan Agent...")
 
       const response = await fetch("/api/analyze-token", {
         method: "POST",
@@ -220,7 +220,7 @@ export default function AgentPage() {
                 <div className="w-full h-full flex items-center justify-center text-teal-600/60">
                   <div className="text-center">
                     <p className="text-lg mb-2">Enter a token CA to start</p>
-                    <p className="text-sm text-teal-500/70">Kima will analyze it for you</p>
+                    <p className="text-sm text-teal-500/70">Chan will analyze it for you</p>
                   </div>
                 </div>
               )}
