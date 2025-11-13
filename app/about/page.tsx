@@ -106,7 +106,7 @@ she is the market.
 
               <div className="group relative overflow-hidden rounded-2xl aspect-square shadow-md hover:shadow-lg transition-shadow">
                 <img
-                  src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/pepe3.png-ULbYFdXm2GC8F5F7HoDruRrQdsSwUI.jpeg"
+                  src="https://i.postimg.cc/W3r6Pz2F/Chat-GPT-Image-Nov-13-2025-11-02-37-AM-1.png"
                   alt="Chan in luxury penthouse"
                   className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-300"
                 />
