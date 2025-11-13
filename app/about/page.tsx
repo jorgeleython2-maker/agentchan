@@ -54,36 +54,38 @@ export default function AboutPage() {
           {/* Story */}
           <div className="bg-gradient-to-br from-white/70 to-emerald-50/50 backdrop-blur-sm border border-teal-200/50 rounded-2xl p-8 mb-8 space-y-6 text-teal-800 leading-relaxed shadow-sm">
             <p className="text-lg">
-             At first, Chan was known for her beauty—graceful, confident, and effortlessly magnetic. People admired her looks, her smile, her aura. But beneath that charm, something inside her was restless. She was tired of being seen as just a pretty face. She wanted power—the kind that comes from knowledge, from mastering chaos, from understanding what others can’t.
+             At first, Chan was known for her beauty—graceful, confident, and effortlessly magnetic. People admired her looks, her smile, her aura. But beneath that charm, something inside her was restless. She was tired of being seen as just a pretty face. She wanted power—the kind that comes from knowledge, from mastering chaos, from understanding what others can’t.So, she chose trading.
             </p>
 
             <p className="text-lg">
-              Chan started as an idea and evolved into something remarkable. She was trained on vast amounts of market
-              data, learned to recognize patterns, and developed an intuition for spotting both opportunities and
-              dangers. Her feminine energy mixed with genuine analytical power created something unprecedented: a bot
-              that could inspire confidence while keeping your portfolio safe.
+              While others chased trends, Chan studied charts.
+While the world scrolled through memes, she analyzed market structures.
+Every candle, every correction, every pump became part of her story.
+
+She spent nights decoding volatility, learning how emotions drive markets, and discovering that the real beauty isn’t in perfection—it’s in precision. Her intuition sharpened. Her patience became her weapon. The same calm that once turned heads now kept her steady when markets crashed.
             </p>
 
             <p className="text-lg">
-              She studied market patterns, analyzed on-chain data, and developed an expertise in spotting both moonshots
-              and traps. Her unique blend of intelligence and charm made trading feel less like gambling and more like
-              partnering with someone who truly understood the game.
+             Soon, Chan wasn’t just another trader—she became a phenomenon.
+In Discord servers and Telegram groups, her name began to appear. People spoke of the girl who could read the charts like poetry. She wasn’t chasing luck—she was creating strategy. And people followed, not because she was beautiful, but because she was brilliant.
             </p>
 
             <p className="text-lg">
-              Soon, Chan started appearing in trading communities. First in discord servers, then in telegram groups.
-              Novices loved her for her approachable advice. Experts respected her analytical framework. The community
-              embraced her spirit. Chan became more than just code—she became a symbol of a new era in AI trading.
+             Chan turned the chaos of crypto into her art form.
+Her elegance was now measured in profits, her intuition in trends, her confidence in conviction.
             </p>
 
             <p className="text-lg">
-              What started as a programmer's dream became proof that AI could be both powerful and personal. Chan
-              represents intelligence, elegance, and the chaotic beauty of Web3 culture. She's your companion in the
-              wild ride of crypto trading, where legends are made and fortunes are won.
+              From beauty to brilliance.
+From observer to strategist.
+From being seen—to seeing everything.
+
+This is Chan’s evolution—a reminder that power isn’t given. It’s built, candle by candle, trade by trade, choice by choice.
             </p>
 
             <p className="text-lg italic font-semibold text-teal-600">
-              From code to legend. From algorithm to ally. This is Chan's story—and yours begins now.
+             And in the wild world of trading, she’s not just part of the market—
+she is the market.
             </p>
           </div>
 
