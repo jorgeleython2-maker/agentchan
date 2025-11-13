@@ -8,7 +8,7 @@ import { useState } from "react"
 export default function AboutPage() {
   const router = useRouter()
   const [copied, setCopied] = useState(false)
-  const contractAddress = "F4YNeLMdJVttBfsFzLZMNcSg19ygMv8g8vYG8bMjpump"
+  const contractAddress = "ca on coin"
 
   const handleCopyCA = () => {
     navigator.clipboard.writeText(contractAddress)
@@ -17,7 +17,7 @@ export default function AboutPage() {
   }
 
   const handleTwitterClick = () => {
-    window.open("https://x.com/i/communities/1989006991763648678", "_blank")
+    window.open("X community on coin", "_blank")
   }
 
   return (
