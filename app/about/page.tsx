@@ -17,7 +17,7 @@ export default function AboutPage() {
   }
 
   const handleTwitterClick = () => {
-    window.open("https://x.com/i/communities/1988314525871849678/", "_blank")
+    window.open("https://x.com/i/communities/1989006991763648678", "_blank")
   }
 
   return (
