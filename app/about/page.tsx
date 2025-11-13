@@ -106,7 +106,7 @@ she is the market.
 
               <div className="group relative overflow-hidden rounded-2xl aspect-square shadow-md hover:shadow-lg transition-shadow">
                 <img
-                  src="https://i.postimg.cc/W3r6Pz2F/Chat-GPT-Image-Nov-13-2025-11-02-37-AM-1.png"
+                  src="https://i.postimg.cc/NMH66MVW/Chat-GPT-Image-Nov-13-2025-11-22-53-AM-1.png"
                   alt="Chan in luxury penthouse"
                   className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-300"
                 />
@@ -117,7 +117,7 @@ she is the market.
 
               <div className="group relative overflow-hidden rounded-2xl aspect-square shadow-md hover:shadow-lg transition-shadow">
                 <img
-                  src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/PEPE%201.png-XBa6s6AxpEtjJ5tvKBLCfWqunB8Oq9.jpeg"
+                  src="https://i.postimg.cc/W3r6Pz2F/Chat-GPT-Image-Nov-13-2025-11-02-37-AM-1.png"
                   alt="Chan gaming in luxury suite"
                   className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-300"
                 />
@@ -128,7 +128,7 @@ she is the market.
 
               <div className="group relative overflow-hidden rounded-2xl aspect-square shadow-md hover:shadow-lg transition-shadow">
                 <img
-                  src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/ChatGPT%20Image%208%20nov%202025%2C%2001_28_10%20a.m.-zWXUShvSwdLQ3KtBq8KXbUrQJrBtWb.png"
+                  src="https://i.postimg.cc/Y9s98zc3/Chat-GPT-Image-Nov-13-2025-11-15-58-AM-1.png"
                   alt="Chan party with friends"
                   className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-300"
                 />
@@ -139,7 +139,7 @@ she is the market.
 
               <div className="group relative overflow-hidden rounded-2xl aspect-square shadow-md hover:shadow-lg transition-shadow">
                 <img
-                  src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/ChatGPT%20Image%208%20nov%202025%2C%2001_24_29%20a.m.-HVHFTNYkZuQZhfKLbCrxCdArAYkxy7.png"
+                  src="https://i.postimg.cc/8zQG1nBF/Chat-GPT-Image-Nov-13-2025-11-06-39-AM-1.png"
                   alt="Chan trading success"
                   className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-300"
                 />
