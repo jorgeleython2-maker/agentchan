@@ -54,9 +54,7 @@ export default function AboutPage() {
           {/* Story */}
           <div className="bg-gradient-to-br from-white/70 to-emerald-50/50 backdrop-blur-sm border border-teal-200/50 rounded-2xl p-8 mb-8 space-y-6 text-teal-800 leading-relaxed shadow-sm">
             <p className="text-lg">
-              In the beginning, Chan was just a dream—a vision of the perfect trading companion. With cutting-edge AI
-              and machine learning, a visionary programmer decided to create something special: an intelligent agent who
-              could guide traders through the chaos of the crypto market with charm, wisdom, and legendary vibes.
+             At first, Chan was known for her beauty—graceful, confident, and effortlessly magnetic. People admired her looks, her smile, her aura. But beneath that charm, something inside her was restless. She was tired of being seen as just a pretty face. She wanted power—the kind that comes from knowledge, from mastering chaos, from understanding what others can’t.
             </p>
 
             <p className="text-lg">
