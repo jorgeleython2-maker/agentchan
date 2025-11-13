@@ -175,7 +175,7 @@ export default function AgentPage() {
             {tokenName && (
               <div className="mt-2 text-center">
                 <h2 className="text-lg font-bold text-transparent bg-clip-text bg-gradient-to-r from-pink-500 to-rose-500">
-                  Chan está analizando: {tokenName}/SOL 💖
+                  Analyzing: {tokenName}/SOL 💖
                 </h2>
               </div>
             )}
